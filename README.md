@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mike Nguyen. A computer science student at Grand View University.
-- 👀 I’m interested in app development or automating everyday tasks.
-- 🌱 I’m currently learning python and data structures.
+- 👀 I’m interested in Full-Stack development or automating everyday tasks.
 - 💞️ I’m looking to collaborate on creating a bot for faster checkout.
 
 <!---
